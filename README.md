@@ -1,5 +1,5 @@
 # Sound Matrix
-This repository was created to house information associated to a post for Creating a Sound Matrix with React. The post can be found [here](https://medium.com/@panderson.dev).
+This repository was created to house information associated to a post for Creating a Sound Matrix with React. The post can be found [here](https://medium.com/@panderson.dev/creating-a-sound-matrix-81d1b48513ae).
 
 # Overview
 To run the react app via terminal:  
