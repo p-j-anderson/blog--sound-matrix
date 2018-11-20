@@ -92,7 +92,6 @@ class SoundMatrix extends Component {
     const initialRowLength = 8
     this.loop = null
     this.state = {
-      demo: true,
       rowCount: initialRowCount,
       rowLength: initialRowLength,
       beat: 0,
